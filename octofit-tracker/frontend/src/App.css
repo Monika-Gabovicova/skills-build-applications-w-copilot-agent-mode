@@ -1,0 +1,68 @@
+.App {
+  /* Minimal styles, relying on Bootstrap */
+}
+
+/* Custom colors for Octofit Tracker */
+body {
+  background-color: #e8f5e8; /* Light green background */
+  color: #2e7d32; /* Dark green text */
+}
+
+.navbar {
+  background-color: #4caf50 !important; /* Green navigation */
+}
+
+.navbar-brand, .nav-link {
+  color: #fff !important; /* White text on green nav */
+}
+
+.navbar-brand:hover, .nav-link:hover {
+  color: #c8e6c9 !important; /* Light green on hover */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1b5e20; /* Darker green headings */
+}
+
+.table {
+  background-color: #fff; /* White table background */
+  border-color: #4caf50; /* Green borders */
+}
+
+.table th {
+  background-color: #4caf50; /* Green table headers */
+  color: #fff; /* White text */
+  border-color: #4caf50;
+}
+
+.table td {
+  border-color: #4caf50;
+}
+
+.btn {
+  background-color: #4caf50; /* Green buttons */
+  border-color: #4caf50;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #388e3c; /* Darker green on hover */
+  border-color: #388e3c;
+}
+
+a {
+  color: #2e7d32; /* Green links */
+}
+
+a:hover {
+  color: #1b5e20; /* Darker green on hover */
+}
+
+.card {
+  background-color: #fff;
+  border-color: #4caf50;
+}
+
+.card-title {
+  color: #1b5e20;
+}
